@@ -1,4 +1,4 @@
-package com.github.protocol;
+package io.github.protocol;
 
 public interface TxnLogReadProcessor {
     void txnHeader(TxnHeader header);

@@ -1,4 +1,4 @@
-package com.github.protocol;
+package io.github.protocol;
 
 public class EntryLogHeader {
 

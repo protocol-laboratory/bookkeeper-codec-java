@@ -1,4 +1,4 @@
-package com.github.protocol;
+package io.github.protocol;
 
 import java.util.HashMap;
 import java.util.Map;

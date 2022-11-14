@@ -1,4 +1,4 @@
-package com.github.protocol;
+package io.github.protocol;
 
 import com.google.common.io.Resources;
 import org.junit.jupiter.api.Assertions;

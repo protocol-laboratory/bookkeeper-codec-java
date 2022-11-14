@@ -1,4 +1,4 @@
-package com.github.protocol;
+package io.github.protocol;
 
 public interface EntryLogReadProcessor {
     void logHeader(EntryLogHeader header);
