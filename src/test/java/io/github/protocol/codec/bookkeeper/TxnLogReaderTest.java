@@ -1,4 +1,4 @@
-package io.github.protocol;
+package io.github.protocol.codec.bookkeeper;
 
 import com.google.common.io.Resources;
 import org.junit.jupiter.api.Assertions;

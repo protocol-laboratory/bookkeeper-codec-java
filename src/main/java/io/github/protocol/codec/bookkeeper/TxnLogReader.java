@@ -1,4 +1,4 @@
-package io.github.protocol;
+package io.github.protocol.codec.bookkeeper;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
