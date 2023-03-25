@@ -1,4 +1,4 @@
-package io.github.protocol;
+package io.github.protocol.codec.bookkeeper;
 
 public interface EntryLogReadProcessor {
     void logHeader(EntryLogHeader header);
